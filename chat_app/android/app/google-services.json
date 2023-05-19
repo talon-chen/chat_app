@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "83844271168",
+    "project_id": "flash-chat-6560a",
+    "storage_bucket": "flash-chat-6560a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83844271168:android:f8c813ffcb7ea17bd863a5",
+        "android_client_info": {
+          "package_name": "com.tchen.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83844271168-7mbta9a3ifuke9hgcsmoc3695bfv3jqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-VVnbxAUijekLXXS1vcGTa_sX0VVZROk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83844271168-7mbta9a3ifuke9hgcsmoc3695bfv3jqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
